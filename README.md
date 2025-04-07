@@ -16,7 +16,7 @@ A modern, responsive web application built with Next.js. This project serves as 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [TypeScript] (optional, if used)
+- [TypeScript]
 
 ## 🛠️ Getting Started
 
